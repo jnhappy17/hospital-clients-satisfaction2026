@@ -1,0 +1,7124 @@
+cultureInfo en-US
+
+	linguisticMetadata =
+			{
+			  "Version": "4.1.0",
+			  "Language": "en-US",
+			  "Entities": {
+			    "complete_hcahps_data": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "complete hcahps data": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "complete hcahp data": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "complete_hcahps_data": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "complete hcahp information": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "complete hcahp fact": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "complete hcahp info": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "complete hcahp statistic": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "complete hcahp document": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "complete hcahp figure": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "complete hcahp record": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.facility_name": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "facility_name"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "facility name": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "facility_name": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "facility": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "facility nickname": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "facility title": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "facility label": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "facility tag": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "ability": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "capability": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "talent": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "flair": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "competence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "skill": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.address": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "address"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "address": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "location": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "direction": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "residence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "contact": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "place": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.city": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "city"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "city": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "location": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "metropolis": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "municipality": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "town": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "metropolitan": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.state": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "state"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "state": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "location": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "province": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "territory": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "nation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "condition": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "country": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.zipcode": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "zipcode"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "zipcode": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.county_parish": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "county_parish"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "county parish": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "county_parish": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "parish": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "county village": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "county locality": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "village": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "locality": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "county community": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "county district": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "county area": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "county neighborhood": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "community": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "district": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.phone_number": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "phone_number"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "phone number": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "phone_number": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "phone no": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.hcahps_measure_id": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "hcahps_measure_id"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "hcahps measure id": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "hcahp measure id": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "hcahps_measure_id": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "hcahp measure identification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hcahp measure identity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hcahp measure identifier": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hcahp measure credential": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.hcahps_question": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "hcahps_question"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "hcahps question": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "hcahp question": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "hcahps_question": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "hcahp enquiry": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "hcahp inquiry": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "hcahp interrogation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "hcahp query": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "hcahp request": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "hcahp demand": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "hcahp difficulty": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "hcahp problem": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        },
+			        {
+			          "hcahp issue": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        },
+			        {
+			          "hcahp subject": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        },
+			        {
+			          "HCAHPS Domain": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.hcahps_answer_description": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "hcahps_answer_description"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "hcahps answer description": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "hcahp answer description": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "hcahps_answer_description": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "hcahp answer appearance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hcahp answer descriptor": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hcahp answer explanation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hcahp answer specification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hcahp answer account": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "hcahp answer overview": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "hcahp answer report": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.hcahps_answer_percent": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "hcahps_answer_percent"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "hcahps answer percent": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "hcahp answer percent": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "hcahps_answer_percent": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "hcahp answer percentage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "hcahp answer ratio": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "hcahp answer percentile": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "hcahp answer part": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.468
+			          }
+			        },
+			        {
+			          "hcahp answer proportion": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.468
+			          }
+			        },
+			        {
+			          "hcahp answer fraction": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.468
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.num_completed_survey": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "num_completed_surveys"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "num completed survey": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "num_completed_surveys": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "number completed survey": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "num completed examination": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "num completed investigation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "num completed inspection": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "num completed assessment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "num completed analysis": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "num completed appraisal": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "num completed scrutiny": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "num completed evaluation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "num completed consideration": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.survey_response_rate_percent": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "survey_response_rate_percent"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "survey response rate percent": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "survey_response_rate_percent": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "rate percent": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "response rate percent": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "survey response rate percentage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.489
+			          }
+			        },
+			        {
+			          "survey response rate ratio": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.489
+			          }
+			        },
+			        {
+			          "survey response rate percentile": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.489
+			          }
+			        },
+			        {
+			          "response rate percentage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "response rate ratio": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "response rate percentile": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "rate percentage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "rate ratio": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "rate percentile": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "survey response rate part": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.474
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.start_date": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "start_date"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "start date": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "start_date": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        },
+			        {
+			          "start moment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "start period": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "commencement date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "inception date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "kickoff date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "beginning date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "first date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "initiation date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "launch date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "kick off date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.466
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.start_date.date_hierarchy": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "start_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "start date hierarchy": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date hierarchy": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.start_date.year": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "start_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Year"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "start year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "start date year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date year": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "start date yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "start yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "date yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "commencement date year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.615
+			          }
+			        },
+			        {
+			          "inception date year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.615
+			          }
+			        },
+			        {
+			          "kickoff date year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.615
+			          }
+			        },
+			        {
+			          "start moment year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "moment year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "beginning date year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.597
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.start_date.quarter": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "start_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Quarter"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "start quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "start date quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date quarter": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "start date qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.846
+			          }
+			        },
+			        {
+			          "start qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.833
+			          }
+			        },
+			        {
+			          "date qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.833
+			          }
+			        },
+			        {
+			          "qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.818
+			          }
+			        },
+			        {
+			          "commencement date quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.615
+			          }
+			        },
+			        {
+			          "inception date quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.615
+			          }
+			        },
+			        {
+			          "kickoff date quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.615
+			          }
+			        },
+			        {
+			          "start moment quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "moment quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "beginning date quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.597
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.start_date.month": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "start_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Month"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "start month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "start date month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date month": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "start date mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "start mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "date mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "commencement date month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.615
+			          }
+			        },
+			        {
+			          "inception date month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.615
+			          }
+			        },
+			        {
+			          "kickoff date month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.615
+			          }
+			        },
+			        {
+			          "start moment month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "moment month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "beginning date month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.597
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.start_date.day": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "start_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Day"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "start day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "start date day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date day": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "commencement date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.615
+			          }
+			        },
+			        {
+			          "inception date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.615
+			          }
+			        },
+			        {
+			          "kickoff date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.615
+			          }
+			        },
+			        {
+			          "start moment day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "moment day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "beginning date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.597
+			          }
+			        },
+			        {
+			          "first date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.597
+			          }
+			        },
+			        {
+			          "initiation date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.597
+			          }
+			        },
+			        {
+			          "launch date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.597
+			          }
+			        },
+			        {
+			          "start period day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.end_date": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "end_date"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "end date": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "end_date": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        },
+			        {
+			          "end moment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "end period": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "culmination date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "completion date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "conclusion date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "expiration date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "cease date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "end time": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "close date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "finish date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.end_date.date_hierarchy": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "end_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "end date hierarchy": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date hierarchy": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.end_date.year": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "end_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Year"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "end year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "end date year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date year": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "end date yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "end yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "date yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "culmination date year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.615
+			          }
+			        },
+			        {
+			          "completion date year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "conclusion date year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "expiration date year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "end moment year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "completion year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.end_date.quarter": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "end_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Quarter"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "end quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "end date quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date quarter": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "end date qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.846
+			          }
+			        },
+			        {
+			          "end qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.833
+			          }
+			        },
+			        {
+			          "date qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.833
+			          }
+			        },
+			        {
+			          "qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.818
+			          }
+			        },
+			        {
+			          "culmination date quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.615
+			          }
+			        },
+			        {
+			          "completion date quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "conclusion date quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "expiration date quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "end moment quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "completion quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.end_date.month": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "end_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Month"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "end month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "end date month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date month": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "end date mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "end mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "date mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "culmination date month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.615
+			          }
+			        },
+			        {
+			          "completion date month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "conclusion date month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "expiration date month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "end moment month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "completion month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.end_date.day": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "end_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Day"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "end day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "end date day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date day": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "culmination date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.615
+			          }
+			        },
+			        {
+			          "completion date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "conclusion date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "expiration date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "end moment day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "completion day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "conclusion day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "expiration day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "moment day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "cease date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.597
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.provider_ccn": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "provider_ccn"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "provider ccn": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "provider_ccn": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.number_bed": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "number_beds"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "number bed": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "number_beds": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "bed": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "no bed": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "number divan": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "number cot": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "number bedstead": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "divan": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "cot": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "bedstead": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "number couch": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "number cradle": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "number crib": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.beds_start_report_date": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "beds_start_report_date"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "beds start report date": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed start report date": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "beds_start_report_date": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        },
+			        {
+			          "report date": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "start report date": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "bed start report moment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "start report moment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "report moment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "bed start report period": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.748
+			          }
+			        },
+			        {
+			          "start report period": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "report period": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "bed start information date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "bed start commentary date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "bed start description date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "bed start presentation date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.beds_start_report_date.date_hierarchy": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "beds_start_report_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "beds start report date hierarchy": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed start report date hierarchy": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "date hierarchy": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "report date hierarchy": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "start report date hierarchy": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.beds_start_report_date.year": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "beds_start_report_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Year"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "beds start report year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed start report year": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "beds start report date year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed start report date year": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "report year": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "start report year": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "date year": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "report date year": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "start report date year": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "bed start report date yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "bed start report yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "start report date yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "start report yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "report date yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "report yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "date yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "bed start information date year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed start commentary date year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.beds_start_report_date.quarter": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "beds_start_report_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Quarter"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "beds start report quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed start report quarter": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "beds start report date quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed start report date quarter": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "report quarter": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "start report quarter": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "date quarter": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "report date quarter": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "start report date quarter": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "bed start report date qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.867
+			          }
+			        },
+			        {
+			          "bed start report qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.857
+			          }
+			        },
+			        {
+			          "start report date qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.857
+			          }
+			        },
+			        {
+			          "start report qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.846
+			          }
+			        },
+			        {
+			          "report date qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.846
+			          }
+			        },
+			        {
+			          "report qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.833
+			          }
+			        },
+			        {
+			          "date qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.833
+			          }
+			        },
+			        {
+			          "qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.818
+			          }
+			        },
+			        {
+			          "bed start information date quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed start commentary date quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.beds_start_report_date.month": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "beds_start_report_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Month"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "beds start report month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed start report month": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "beds start report date month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed start report date month": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "report month": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "start report month": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "date month": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "report date month": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "start report date month": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "bed start report date mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "bed start report mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "start report date mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "start report mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "report date mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "report mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "date mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "bed start information date month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed start commentary date month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.beds_start_report_date.day": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "beds_start_report_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Day"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "beds start report day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed start report day": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "beds start report date day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed start report date day": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "report day": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "start report day": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "date day": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "report date day": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "start report date day": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "bed start information date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed start commentary date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed start description date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed start presentation date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed start statement date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed start report moment day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed start information day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "bed start commentary day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "bed start description day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "bed start presentation day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.beds_end_report_date": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "beds_end_report_date"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "beds end report date": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed end report date": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "beds_end_report_date": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        },
+			        {
+			          "report date": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "end report date": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "bed end report moment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "end report moment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "report moment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "bed end report period": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.748
+			          }
+			        },
+			        {
+			          "end report period": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "report period": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "bed completion report date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "bed conclusion report date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "bed expiration report date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "bed end information date": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.beds_end_report_date.date_hierarchy": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "beds_end_report_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "beds end report date hierarchy": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed end report date hierarchy": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "date hierarchy": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "report date hierarchy": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "end report date hierarchy": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.beds_end_report_date.year": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "beds_end_report_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Year"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "beds end report year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed end report year": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "beds end report date year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed end report date year": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "report year": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "end report year": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "date year": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "report date year": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "end report date year": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "bed end report date yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "bed end report yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "end report date yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "end report yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "report date yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "report yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "date yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "bed completion report date year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed conclusion report date year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.beds_end_report_date.quarter": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "beds_end_report_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Quarter"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "beds end report quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed end report quarter": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "beds end report date quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed end report date quarter": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "report quarter": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "end report quarter": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "date quarter": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "report date quarter": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "end report date quarter": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "bed end report date qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.867
+			          }
+			        },
+			        {
+			          "bed end report qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.857
+			          }
+			        },
+			        {
+			          "end report date qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.857
+			          }
+			        },
+			        {
+			          "end report qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.846
+			          }
+			        },
+			        {
+			          "report date qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.846
+			          }
+			        },
+			        {
+			          "report qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.833
+			          }
+			        },
+			        {
+			          "date qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.833
+			          }
+			        },
+			        {
+			          "qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.818
+			          }
+			        },
+			        {
+			          "bed completion report date quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed conclusion report date quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.beds_end_report_date.month": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "beds_end_report_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Month"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "beds end report month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed end report month": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "beds end report date month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed end report date month": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "report month": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "end report month": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "date month": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "report date month": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "end report date month": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "bed end report date mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "bed end report mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "end report date mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "end report mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "report date mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "report mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "date mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "bed completion report date month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed conclusion report date month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.beds_end_report_date.day": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "VariationSource": "beds_end_report_date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Day"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "beds end report day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed end report day": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "beds end report date day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bed end report date day": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "report day": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "end report day": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "date day": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "report date day": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "end report date day": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "bed completion report date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed conclusion report date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed expiration report date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed end information date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed end commentary date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed end description date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed end presentation date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed end statement date day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed end report moment day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "bed completion report day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "complete_hcahps_data.hospital_size": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "hospital_size"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "hospital size": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "hospital_size": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "size": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "hospital extent": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "hospital magnitude": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "extent": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "magnitude": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "hospital scope": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "scope": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "hospital volume": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "volume": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.466
+			          }
+			        },
+			        {
+			          "hospital dimension": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        },
+			        {
+			          "hospital mass": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.unique_facility_name": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "unique_facility_name"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "unique facility name": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "unique_facility_name": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "facility": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "unique facility nickname": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "unique facility title": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "unique facility label": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "unique facility tag": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "ability": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "capability": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "talent": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "flair": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "competence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "skill": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.percent_response_rate": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "percent_response_rate"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "percent response rate": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "percent_response_rate": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "rate": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "response rate": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "percent response degree": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "percent response frequency": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "percent response percentage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "percent response ratio": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "percent response quotient": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "response degree": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "response frequency": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "response percentage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "response ratio": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "response quotient": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.percent_answer": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "percent_answer"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "percent answer": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "percent_answer": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "answer": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "percent response": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "percent reaction": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "percent rejoinder": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "response": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "reaction": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "rejoinder": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "percent reply": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "percent riposte": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "percent retort": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "reply": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data.percent_answer_state": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "complete_hcahps_data",
+			          "ConceptualProperty": "percent_answer_state"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "percent answer state": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "percent_answer_state": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "answer state": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "percent answer location": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "percent answer province": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "percent answer territory": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "percent answer nation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "answer location": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "answer province": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "answer territory": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "answer nation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "percent answer condition": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "percent answer country": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "State Benchmark Avg.": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    }
+			  },
+			  "Relationships": {
+			    "complete_hcahps_data_beds_end_report_date_date_hierarchy_has_complete_hcahps_data_beds_end_report_date_day": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.beds_end_report_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_end_report_date.date_hierarchy"
+			          }
+			        },
+			        "complete_hcahps_data.beds_end_report_date.day": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_end_report_date.day"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.beds_end_report_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.beds_end_report_date.day"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "beds_end_report_date_hierarchies_have_beds_end_report_days"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_beds_end_report_date_date_hierarchy_has_complete_hcahps_data_beds_end_report_date_month": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.beds_end_report_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_end_report_date.date_hierarchy"
+			          }
+			        },
+			        "complete_hcahps_data.beds_end_report_date.month": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_end_report_date.month"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.beds_end_report_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.beds_end_report_date.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "beds_end_report_date_hierarchies_have_beds_end_report_months"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_beds_end_report_date_date_hierarchy_has_complete_hcahps_data_beds_end_report_date_quarter": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.beds_end_report_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_end_report_date.date_hierarchy"
+			          }
+			        },
+			        "complete_hcahps_data.beds_end_report_date.quarter": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_end_report_date.quarter"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.beds_end_report_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.beds_end_report_date.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "beds_end_report_date_hierarchies_have_beds_end_report_quarters"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_beds_end_report_date_date_hierarchy_has_complete_hcahps_data_beds_end_report_date_year": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.beds_end_report_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_end_report_date.date_hierarchy"
+			          }
+			        },
+			        "complete_hcahps_data.beds_end_report_date.year": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_end_report_date.year"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.beds_end_report_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.beds_end_report_date.year"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "beds_end_report_date_hierarchies_have_beds_end_report_years"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_beds_end_report_date_has_date_hierarchy": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.beds_end_report_date": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_end_report_date"
+			          }
+			        },
+			        "complete_hcahps_data.beds_end_report_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_end_report_date.date_hierarchy"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.beds_end_report_date"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.beds_end_report_date.date_hierarchy"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "beds_end_report_dates_have_beds_end_report_date_hierarchies"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_beds_start_report_date_date_hierarchy_has_complete_hcahps_data_beds_start_report_date_day": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.beds_start_report_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_start_report_date.date_hierarchy"
+			          }
+			        },
+			        "complete_hcahps_data.beds_start_report_date.day": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_start_report_date.day"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.beds_start_report_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.beds_start_report_date.day"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "beds_start_report_date_hierarchies_have_beds_start_report_days"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_beds_start_report_date_date_hierarchy_has_complete_hcahps_data_beds_start_report_date_month": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.beds_start_report_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_start_report_date.date_hierarchy"
+			          }
+			        },
+			        "complete_hcahps_data.beds_start_report_date.month": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_start_report_date.month"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.beds_start_report_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.beds_start_report_date.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "beds_start_report_date_hierarchies_have_beds_start_report_months"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_beds_start_report_date_date_hierarchy_has_complete_hcahps_data_beds_start_report_date_quarter": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.beds_start_report_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_start_report_date.date_hierarchy"
+			          }
+			        },
+			        "complete_hcahps_data.beds_start_report_date.quarter": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_start_report_date.quarter"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.beds_start_report_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.beds_start_report_date.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "beds_start_report_date_hierarchies_have_beds_start_report_quarters"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_beds_start_report_date_date_hierarchy_has_complete_hcahps_data_beds_start_report_date_year": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.beds_start_report_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_start_report_date.date_hierarchy"
+			          }
+			        },
+			        "complete_hcahps_data.beds_start_report_date.year": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_start_report_date.year"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.beds_start_report_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.beds_start_report_date.year"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "beds_start_report_date_hierarchies_have_beds_start_report_years"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_beds_start_report_date_has_date_hierarchy": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.beds_start_report_date": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_start_report_date"
+			          }
+			        },
+			        "complete_hcahps_data.beds_start_report_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_start_report_date.date_hierarchy"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.beds_start_report_date"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.beds_start_report_date.date_hierarchy"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "beds_start_report_dates_have_beds_start_report_date_hierarchies"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_end_date_date_hierarchy_has_complete_hcahps_data_end_date_day": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.end_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.end_date.date_hierarchy"
+			          }
+			        },
+			        "complete_hcahps_data.end_date.day": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.end_date.day"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.end_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.end_date.day"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "end_date_hierarchies_have_end_days"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_end_date_date_hierarchy_has_complete_hcahps_data_end_date_month": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.end_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.end_date.date_hierarchy"
+			          }
+			        },
+			        "complete_hcahps_data.end_date.month": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.end_date.month"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.end_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.end_date.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "end_date_hierarchies_have_end_months"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_end_date_date_hierarchy_has_complete_hcahps_data_end_date_quarter": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.end_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.end_date.date_hierarchy"
+			          }
+			        },
+			        "complete_hcahps_data.end_date.quarter": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.end_date.quarter"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.end_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.end_date.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "end_date_hierarchies_have_end_quarters"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_end_date_date_hierarchy_has_complete_hcahps_data_end_date_year": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.end_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.end_date.date_hierarchy"
+			          }
+			        },
+			        "complete_hcahps_data.end_date.year": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.end_date.year"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.end_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.end_date.year"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "end_date_hierarchies_have_end_years"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_end_date_has_date_hierarchy": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.end_date": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.end_date"
+			          }
+			        },
+			        "complete_hcahps_data.end_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.end_date.date_hierarchy"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.end_date"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.end_date.date_hierarchy"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "end_dates_have_end_date_hierarchies"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_start_date_date_hierarchy_has_complete_hcahps_data_start_date_day": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.start_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.start_date.date_hierarchy"
+			          }
+			        },
+			        "complete_hcahps_data.start_date.day": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.start_date.day"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.start_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.start_date.day"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "start_date_hierarchies_have_start_days"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_start_date_date_hierarchy_has_complete_hcahps_data_start_date_month": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.start_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.start_date.date_hierarchy"
+			          }
+			        },
+			        "complete_hcahps_data.start_date.month": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.start_date.month"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.start_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.start_date.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "start_date_hierarchies_have_start_months"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_start_date_date_hierarchy_has_complete_hcahps_data_start_date_quarter": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.start_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.start_date.date_hierarchy"
+			          }
+			        },
+			        "complete_hcahps_data.start_date.quarter": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.start_date.quarter"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.start_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.start_date.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "start_date_hierarchies_have_start_quarters"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_start_date_date_hierarchy_has_complete_hcahps_data_start_date_year": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.start_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.start_date.date_hierarchy"
+			          }
+			        },
+			        "complete_hcahps_data.start_date.year": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.start_date.year"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.start_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.start_date.year"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "start_date_hierarchies_have_start_years"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_start_date_has_date_hierarchy": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data.start_date": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.start_date"
+			          }
+			        },
+			        "complete_hcahps_data.start_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.start_date.date_hierarchy"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data.start_date"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.start_date.date_hierarchy"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "start_dates_have_start_date_hierarchies"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_percent_answer_state": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.percent_answer_state": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.percent_answer_state"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.percent_answer_state"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_percent_answer_state"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_percent_answer": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.percent_answer": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.percent_answer"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.percent_answer"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_percent_answers"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_percent_response_rate": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.percent_response_rate": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.percent_response_rate"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.percent_response_rate"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_percent_response_rates"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_unique_facility_name": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.unique_facility_name": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.unique_facility_name"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.unique_facility_name"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_unique_facility_names"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_hospital_size": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.hospital_size": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.hospital_size"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.hospital_size"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_hospital_sizes"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_beds_end_report_date": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.beds_end_report_date": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_end_report_date"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.beds_end_report_date"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_beds_end_report_dates"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_beds_start_report_date": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.beds_start_report_date": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_start_report_date"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.beds_start_report_date"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_beds_start_report_dates"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_number_bed": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.number_bed": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.number_bed"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.number_bed"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_number_beds"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_provider_ccn": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.provider_ccn": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.provider_ccn"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.provider_ccn"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_provider_ccns"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_end_date": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.end_date": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.end_date"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.end_date"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_end_dates"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_start_date": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.start_date": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.start_date"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.start_date"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_start_dates"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_survey_response_rate_percent": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.survey_response_rate_percent": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.survey_response_rate_percent"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.survey_response_rate_percent"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_survey_response_rate_percent"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_num_completed_survey": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.num_completed_survey": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.num_completed_survey"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.num_completed_survey"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_num_completed_surveys"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_hcahps_answer_percent": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.hcahps_answer_percent": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.hcahps_answer_percent"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.hcahps_answer_percent"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_hcahps_answer_percent"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_hcahps_answer_description": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.hcahps_answer_description": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.hcahps_answer_description"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.hcahps_answer_description"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_hcahps_answer_descriptions"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_hcahps_question": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.hcahps_question": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.hcahps_question"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.hcahps_question"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_hcahps_questions"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_hcahps_measure_id": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.hcahps_measure_id": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.hcahps_measure_id"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.hcahps_measure_id"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_hcahps_measure_ids"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_phone_number": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.phone_number": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.phone_number"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.phone_number"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_phone_numbers"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_county_parish": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.county_parish": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.county_parish"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.county_parish"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_county_parishes"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_zipcode": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.zipcode": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.zipcode"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.zipcode"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_zipcodes"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_state": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.state": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.state"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.state"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_states"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_city": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.city": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.city"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.city"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_cities"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_address": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.address": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.address"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.address"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_addresses"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_has_facility_name": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.facility_name": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.facility_name"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Object": {
+			              "Role": "complete_hcahps_data.facility_name"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_have_facility_names"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_in_county_parish": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.county_parish": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.county_parish"
+			          }
+			        }
+			      },
+			      "SemanticSlots": {
+			        "Where": {
+			          "Role": "complete_hcahps_data.county_parish"
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "complete_hcahps_data.county_parish"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_are_in_county_parishes"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_in_zipcode": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.zipcode": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.zipcode"
+			          }
+			        }
+			      },
+			      "SemanticSlots": {
+			        "Where": {
+			          "Role": "complete_hcahps_data.zipcode"
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "complete_hcahps_data.zipcode"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_are_in_zipcodes"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_in_state": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.state": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.state"
+			          }
+			        }
+			      },
+			      "SemanticSlots": {
+			        "Where": {
+			          "Role": "complete_hcahps_data.state"
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "complete_hcahps_data.state"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_are_in_states"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_in_city": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.city": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.city"
+			          }
+			        }
+			      },
+			      "SemanticSlots": {
+			        "Where": {
+			          "Role": "complete_hcahps_data.city"
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "complete_hcahps_data.city"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_are_in_cities"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_in_address": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.address": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.address"
+			          }
+			        }
+			      },
+			      "SemanticSlots": {
+			        "Where": {
+			          "Role": "complete_hcahps_data.address"
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "complete_hcahps_data"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "complete_hcahps_data.address"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "complete_hcahps_data_are_in_addresses"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_is_reported_on_beds_end_report_date": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.beds_end_report_date": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_end_report_date"
+			          }
+			        }
+			      },
+			      "SemanticSlots": {
+			        "When": {
+			          "Role": "complete_hcahps_data.beds_end_report_date"
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Verb": {
+			            "Verbs": [
+			              {
+			                "report": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "complete_hcahps_data"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.9,
+			          "ID": "complete_hcahps_data_are_reported_on_beds_end_report_dates"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_is_reported_on_beds_start_report_date": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.beds_start_report_date": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.beds_start_report_date"
+			          }
+			        }
+			      },
+			      "SemanticSlots": {
+			        "When": {
+			          "Role": "complete_hcahps_data.beds_start_report_date"
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Verb": {
+			            "Verbs": [
+			              {
+			                "report": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "complete_hcahps_data"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.9,
+			          "ID": "complete_hcahps_data_are_reported_on_beds_start_report_dates"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_is_ended_on_end_date": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.end_date": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.end_date"
+			          }
+			        }
+			      },
+			      "SemanticSlots": {
+			        "When": {
+			          "Role": "complete_hcahps_data.end_date"
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Verb": {
+			            "Verbs": [
+			              {
+			                "end": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "complete_hcahps_data"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.9,
+			          "ID": "complete_hcahps_data_are_ended_on_end_dates"
+			        }
+			      ]
+			    },
+			    "complete_hcahps_data_is_started_on_start_date": {
+			      "Binding": {
+			        "ConceptualEntity": "complete_hcahps_data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "complete_hcahps_data": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data"
+			          }
+			        },
+			        "complete_hcahps_data.start_date": {
+			          "Target": {
+			            "Entity": "complete_hcahps_data.start_date"
+			          }
+			        }
+			      },
+			      "SemanticSlots": {
+			        "When": {
+			          "Role": "complete_hcahps_data.start_date"
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Verb": {
+			            "Verbs": [
+			              {
+			                "start": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "complete_hcahps_data"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.9,
+			          "ID": "complete_hcahps_data_are_started_on_start_dates"
+			        }
+			      ]
+			    }
+			  },
+			  "Agents": {
+			    "Internal": {
+			      "Version": "1.1.0"
+			    }
+			  }
+			}
+		contentType: json
+

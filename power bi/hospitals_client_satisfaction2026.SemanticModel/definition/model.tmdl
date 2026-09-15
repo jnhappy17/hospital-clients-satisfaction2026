@@ -1,0 +1,24 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-US
+	valueFilterBehavior: independent
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_QueryOrder = ["complete_hcahps_data"]
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table complete_hcahps_data
+ref table DateTableTemplate_e47a7dc8-c0d8-4f58-9211-13c4390c184f
+ref table LocalDateTable_709e2a47-1a6b-48ad-ae23-456f35881703
+ref table LocalDateTable_54d365f6-77d3-4926-92b2-539b1d54a23b
+ref table LocalDateTable_7a9d245b-f8cf-4286-9f53-c2d591cb4dae
+ref table LocalDateTable_50719682-874b-48a0-b907-05225a4ec5da
+
+ref cultureInfo en-US
+

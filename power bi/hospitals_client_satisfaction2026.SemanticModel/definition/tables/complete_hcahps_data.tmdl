@@ -1,0 +1,255 @@
+table complete_hcahps_data
+	lineageTag: dbc92b6d-5070-41ea-a06b-94773eb0d706
+
+	measure percent_answer_state = CALCULATE(DIVIDE(AVERAGE(complete_hcahps_data[hcahps_answer_percent]), 100, 0), REMOVEFILTERS(complete_hcahps_data[unique_facility_name]))
+		formatString: 0.0%;-0.0%;0.0%
+		lineageTag: 4e2c9711-e459-4607-a6ab-5de8917a464d
+
+	measure Variance = (AVERAGE(complete_hcahps_data[percent_answer])- [percent_answer_state])*100
+		formatString: 0.0
+		lineageTag: f2ad7513-70f2-4f33-847c-5e4d334b7842
+
+	column facility_name
+		dataType: string
+		lineageTag: e51b8589-1176-4792-9c7b-c0598bce661e
+		summarizeBy: none
+		sourceColumn: facility_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column address
+		dataType: string
+		lineageTag: 6163d990-711a-4065-84b1-bd51e0c304f8
+		summarizeBy: none
+		sourceColumn: address
+
+		annotation SummarizationSetBy = Automatic
+
+	column city
+		dataType: string
+		lineageTag: 4cf08e13-0e76-4c94-8172-0b55996dafb8
+		summarizeBy: none
+		sourceColumn: city
+
+		annotation SummarizationSetBy = Automatic
+
+	column state
+		dataType: string
+		lineageTag: ea7e2768-c3ab-4d41-aeda-fbaed947323a
+		summarizeBy: none
+		sourceColumn: state
+
+		annotation SummarizationSetBy = Automatic
+
+	column zipcode
+		dataType: string
+		lineageTag: d7f6913a-2e31-48e7-8f53-f32671a7dc04
+		summarizeBy: none
+		sourceColumn: zipcode
+
+		annotation SummarizationSetBy = Automatic
+
+	column county_parish
+		dataType: string
+		lineageTag: b1618e7b-5996-4bab-9b61-700b330d182c
+		summarizeBy: none
+		sourceColumn: county_parish
+
+		annotation SummarizationSetBy = Automatic
+
+	column phone_number
+		dataType: string
+		lineageTag: c92f26fa-ea47-4ce8-b70f-e722751af43d
+		summarizeBy: none
+		sourceColumn: phone_number
+
+		annotation SummarizationSetBy = Automatic
+
+	column hcahps_measure_id
+		dataType: string
+		lineageTag: 4441c1c8-dda8-4adb-8632-3240950baf6c
+		summarizeBy: none
+		sourceColumn: hcahps_measure_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column hcahps_question
+		dataType: string
+		lineageTag: 639c212f-8a5c-4e5e-8cb0-9a8ed300a76d
+		summarizeBy: none
+		sourceColumn: hcahps_question
+
+		annotation SummarizationSetBy = Automatic
+
+	column hcahps_answer_description
+		dataType: string
+		lineageTag: 691ac4dc-73ab-468c-b520-f9b15626b2df
+		summarizeBy: none
+		sourceColumn: hcahps_answer_description
+
+		annotation SummarizationSetBy = Automatic
+
+	column hcahps_answer_percent
+		dataType: int64
+		lineageTag: 67498650-1121-4ce5-a074-e738b0224cfc
+		summarizeBy: none
+		sourceColumn: hcahps_answer_percent
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column num_completed_surveys
+		dataType: int64
+		lineageTag: 29e215f2-2d7d-4566-9806-4935ed388f0f
+		summarizeBy: none
+		sourceColumn: num_completed_surveys
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column survey_response_rate_percent
+		dataType: int64
+		formatString: 0
+		lineageTag: 9608301c-05cd-428a-a069-11f622eba263
+		summarizeBy: none
+		sourceColumn: survey_response_rate_percent
+
+		annotation SummarizationSetBy = User
+
+	column start_date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 5ec929ab-9bb1-4bfb-a6af-9b1597b697b2
+		summarizeBy: none
+		sourceColumn: start_date
+
+		variation Variation
+			isDefault
+			relationship: 7f3aa9c3-d23e-494a-8d42-3a44fdbbd494
+			defaultHierarchy: LocalDateTable_709e2a47-1a6b-48ad-ae23-456f35881703.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column end_date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 53940bdb-1c7b-40cb-b733-9c0d71e26691
+		summarizeBy: none
+		sourceColumn: end_date
+
+		variation Variation
+			isDefault
+			relationship: 3b74cbb5-40b0-40e0-8d4c-a651bc14564f
+			defaultHierarchy: LocalDateTable_54d365f6-77d3-4926-92b2-539b1d54a23b.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column provider_ccn
+		dataType: string
+		lineageTag: f2603e6b-ff56-4f72-becf-7bf81c51a772
+		summarizeBy: none
+		sourceColumn: provider_ccn
+
+		annotation SummarizationSetBy = Automatic
+
+	column number_beds
+		dataType: int64
+		formatString: 0
+		lineageTag: 30ee6c49-ee82-46f7-ac7a-d6701121beca
+		summarizeBy: none
+		sourceColumn: number_beds
+
+		annotation SummarizationSetBy = User
+
+	column beds_start_report_date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: aebcef6f-309b-42d7-aa1b-469b4993bfe7
+		summarizeBy: none
+		sourceColumn: beds_start_report_date
+
+		variation Variation
+			isDefault
+			relationship: e274a960-b204-48b7-9da1-ee15db7be848
+			defaultHierarchy: LocalDateTable_7a9d245b-f8cf-4286-9f53-c2d591cb4dae.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column beds_end_report_date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: a276d812-2d56-4944-b46a-dd268d91f33d
+		summarizeBy: none
+		sourceColumn: beds_end_report_date
+
+		variation Variation
+			isDefault
+			relationship: 95853a4e-0091-4b14-9caf-b62010d4c714
+			defaultHierarchy: LocalDateTable_50719682-874b-48a0-b907-05225a4ec5da.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column hospital_size = ```
+			SWITCH(TRUE(), 
+			complete_hcahps_data[number_beds] >= 500, "large",
+			complete_hcahps_data[number_beds] >= 100 && complete_hcahps_data[number_beds] <500, "medium",
+			"small")
+			```
+		dataType: string
+		lineageTag: 06ef7c9b-a7b5-4267-86eb-039aae57356d
+		summarizeBy: none
+
+		changedProperty = DataType
+
+		annotation SummarizationSetBy = Automatic
+
+	column unique_facility_name = CONCATENATE(CONCATENATE(complete_hcahps_data[provider_ccn], "-"), complete_hcahps_data[facility_name])
+		lineageTag: c1822857-f8fc-4656-bce6-8fc71d3f08fa
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	column percent_response_rate = complete_hcahps_data[survey_response_rate_percent]/100
+		formatString: 0%;-0%;0%
+		lineageTag: ba04c653-f13a-441b-9fd8-9900af8cb873
+		summarizeBy: sum
+
+		annotation SummarizationSetBy = Automatic
+
+	column percent_answer = CALCULATE(DIVIDE(AVERAGE(complete_hcahps_data[hcahps_answer_percent]), 100, 0), REMOVEFILTERS(complete_hcahps_data[hcahps_question]))
+		formatString: 0.0%;-0.0%;0.0%
+		lineageTag: f5f8937a-3104-4d5b-891f-75d73b20c720
+		summarizeBy: none
+
+		annotation SummarizationSetBy = User
+
+	column test = complete_hcahps_data[hcahps_answer_percent]/100
+		formatString: 0%;-0%;0%
+		lineageTag: 1bc4b43b-3677-4a5e-b3b8-13fbe3fe894b
+		summarizeBy: sum
+
+		annotation SummarizationSetBy = Automatic
+
+	partition complete_hcahps_data = m
+		mode: import
+		source =
+				let
+				    Source = DatabricksMultiCloud.Catalogs("dbc-4274538d-34d1.cloud.databricks.com", "/sql/1.0/warehouses/830057bb7343afbc", [Catalog=null, Database=null, QueryTags=null, EnableAutomaticProxyDiscovery=null, Implementation="2.0", Protocol=null]),
+				    dev_hcahps2026_Database = Source{[Name="dev_hcahps2026",Kind="Database"]}[Data],
+				    gold_Schema = dev_hcahps2026_Database{[Name="gold",Kind="Schema"]}[Data],
+				    complete_hcahps_data_Table = gold_Schema{[Name="complete_hcahps_data",Kind="Table"]}[Data]
+				in
+				    complete_hcahps_data_Table
+
+	annotation PBI_ResultType = Table
+
