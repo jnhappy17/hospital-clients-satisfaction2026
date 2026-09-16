@@ -55,7 +55,7 @@ hospital-clients-satisfaction2026/
 
   
 ### Hospital view - Specific hospital selected  
-The administration of the Staten Island University Hospital could investigate the cleanliness of their room and their restfulness at night as their rating on these points fall behind the state average.  
+The administration of the Staten Island University Hospital could investigate the cleanliness of their rooms and their restfulness at night as their rating on these points fall behind the state average.  
 
 <img width="972" height="547" alt="bi4" src="https://github.com/user-attachments/assets/174ae96f-3497-4752-ae29-215f51f63b21" />
 
