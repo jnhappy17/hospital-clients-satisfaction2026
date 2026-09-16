@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "hospitals_client_satisfaction2026"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "56d2e090-0fd0-44c6-a860-9d1c146850e9"
+  }
+}

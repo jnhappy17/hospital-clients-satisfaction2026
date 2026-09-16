@@ -1,0 +1,20 @@
+relationship 7f3aa9c3-d23e-494a-8d42-3a44fdbbd494
+	joinOnDateBehavior: datePartOnly
+	fromColumn: complete_hcahps_data.start_date
+	toColumn: LocalDateTable_709e2a47-1a6b-48ad-ae23-456f35881703.Date
+
+relationship 3b74cbb5-40b0-40e0-8d4c-a651bc14564f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: complete_hcahps_data.end_date
+	toColumn: LocalDateTable_54d365f6-77d3-4926-92b2-539b1d54a23b.Date
+
+relationship e274a960-b204-48b7-9da1-ee15db7be848
+	joinOnDateBehavior: datePartOnly
+	fromColumn: complete_hcahps_data.beds_start_report_date
+	toColumn: LocalDateTable_7a9d245b-f8cf-4286-9f53-c2d591cb4dae.Date
+
+relationship 95853a4e-0091-4b14-9caf-b62010d4c714
+	joinOnDateBehavior: datePartOnly
+	fromColumn: complete_hcahps_data.beds_end_report_date
+	toColumn: LocalDateTable_50719682-874b-48a0-b907-05225a4ec5da.Date
+
