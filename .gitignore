@@ -221,3 +221,6 @@ __marimo__/
 # Power Bi
 **/.pbi/localSettings.json
 **/.pbi/cache.abf
+
+# local config
+.vscode/
